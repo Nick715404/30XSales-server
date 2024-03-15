@@ -1,4 +1,4 @@
-<h1 align="center">Before tou run a server plese make sure you change database url in prisma file and make "prisma migrate dev"</h1>
+<h1 align="center">Before you run a server plese make sure you change database url in prisma file and make "prisma migrate dev"</h1>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
